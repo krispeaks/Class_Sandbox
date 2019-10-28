@@ -1,2 +1,2 @@
-# Web1_MusicProject
-Website for The Beatles
+# Class_Sandbox
+This is our class demo project.
